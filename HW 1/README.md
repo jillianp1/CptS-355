@@ -1,0 +1,1 @@
+Simple functions in Haskell
